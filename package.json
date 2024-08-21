@@ -1,0 +1,15 @@
+{
+  "name": "mariajulia874",
+  "version": "2.0.0",
+  "description": "atividade Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "author": "Maria Julia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
